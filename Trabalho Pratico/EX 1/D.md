@@ -6,3 +6,7 @@ Produto final da frente
 
 Como está a ir D costas A
 <img width="1518" height="729" alt="image" src="https://github.com/user-attachments/assets/a10d1dbe-ea37-41d2-b249-b9336b3e8717" />
+
+Mudança de planos no D costas A
+<img width="1520" height="729" alt="image" src="https://github.com/user-attachments/assets/e7c1ecd2-a9b4-4eb8-bb32-7e6533f29359" />
+
