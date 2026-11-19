@@ -12,3 +12,6 @@ Mudança de planos no D costas A
 
 Produto final das costas D-A
 <img width="1518" height="656" alt="image" src="https://github.com/user-attachments/assets/f22ebed9-c877-4b03-a82c-9abaf969a0c1" />
+
+Produto final Frente e Costas D
+<img width="1919" height="547" alt="image" src="https://github.com/user-attachments/assets/cf1f60fc-45e5-4a18-bc58-b56aeb4e70a0" />
