@@ -15,3 +15,6 @@ Produto final das costas D-A
 
 Produto final Frente e Costas D
 <img width="1919" height="547" alt="image" src="https://github.com/user-attachments/assets/cf1f60fc-45e5-4a18-bc58-b56aeb4e70a0" />
+
+Versão alternativa
+<img width="1919" height="548" alt="image" src="https://github.com/user-attachments/assets/5cdf44fa-eca4-40f9-b818-b489268d3709" />
