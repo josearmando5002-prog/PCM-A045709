@@ -4,7 +4,7 @@
 
 </div>
 
-## 📷 Imagens utilizadas
+## Imagens utilizadas
 
 | | Imagem | Autor | Licença | Usada em |
 |:-:|---|---|---|---|
