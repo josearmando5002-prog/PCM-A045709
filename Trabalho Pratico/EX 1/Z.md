@@ -10,3 +10,4 @@ Paragem 2
 
 Final
 <img width="1223" height="692" alt="image" src="https://github.com/user-attachments/assets/b9ac826c-84e2-4f51-82bb-5580d3ec0040" />
+<img width="2480" height="3508" alt="Z-Capa" src="https://github.com/user-attachments/assets/cc003e4d-0162-4645-8780-ac0fb2951495" />
