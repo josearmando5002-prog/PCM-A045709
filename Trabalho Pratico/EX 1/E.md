@@ -3,3 +3,6 @@ Primeiro ponto
 
 Segundo ponto
 <img width="1200" height="692" alt="image" src="https://github.com/user-attachments/assets/4ea9226c-4a3c-40b5-ab75-24530bac312a" />
+
+Alternativo
+<img width="1172" height="691" alt="image" src="https://github.com/user-attachments/assets/592fff4a-ba95-48c0-bb4a-1e1862ecac01" />
